@@ -6,3 +6,5 @@
 -keep class com.google.** { *; }
 -keep class vendor.** { *; }
 -keep class org.tensorflow.** { *; }
+
+
